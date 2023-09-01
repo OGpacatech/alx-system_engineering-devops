@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 753 gello
+chmod 753 hello
